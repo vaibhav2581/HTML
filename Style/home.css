@@ -1,0 +1,244 @@
+body{
+    overflow-x: hidden;
+}
+.ola{
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid;
+    color: white;
+    background-color: black;
+    /* padding-top: 40PX; */
+    /* height: 40px; */
+    /* position: fixed; */
+    width: 100%;
+    cursor: pointer;
+
+}
+
+
+.ola1{
+    font-size: large;
+    font-weight:bolder;
+    
+}
+.second{
+border: 1px solid;
+text-align: center;
+margin-top: 5px;
+color: white;
+background-color: black;
+}
+body{
+    background-image: url(../Pages/1st\ background\ image.webp);
+    background-size: 2000px;
+    /* height: 1050px; */
+    background-repeat: no-repeat ;
+
+
+}
+.third{
+    margin-top: 800px;
+    font-size: 25px;
+    margin-left: 100px;
+    font-weight:normal;
+}
+.fourth{
+    display: flex;
+    justify-content: space-evenly;
+margin-top: 50px;
+    
+}
+.img1{
+    border: 1px solid black;
+    /* text-align: center; */
+    font-size:20px ;
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+    background-color: rgb(249, 236, 236);   
+    border-radius: 30px;
+    cursor: pointer;
+    transition: 1s;
+    
+
+}
+.img1:hover{
+    transform: scale(0.9);
+}
+.img2{
+    border: 1px solid black;
+    /* text-align: center; */
+    font-size:20px ;
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+    border-radius: 30px;
+    background-color: rgb(249, 236, 236); 
+    cursor: pointer; 
+    transition: 1s;
+  
+}
+
+.img2:hover{
+    transform: scale(0.9);
+}
+
+.img3{
+    border: 1px solid black;
+    /* text-align: center; */
+    font-size:20px ;
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+    border-radius: 30px;
+    background-color: rgb(249, 236, 236);
+    cursor: pointer;
+    transition: 1s;
+
+    
+}
+
+.img3:hover{
+    transform: scale(0.9);
+}
+.five{
+    font-size: 25px;
+    margin-left: 100px;
+    font-weight:normal;
+    margin-top: 50px;
+}
+ .f1{
+    height: 500px ;
+    width: 1000px;
+    /* margin-left: 100px; */
+    margin-top: 100px;
+ }
+ .f2{
+    height: 500px ;
+    width: 600px;
+    margin-top: 100px;
+}
+ .f1f2{
+    display: flex;
+    justify-content: space-evenly;
+    cursor: pointer;
+    transition: 2s;
+ }
+ .f1f2:hover{
+    transform: scale(0.9);
+ }
+ .f3{
+    height: 500px ;
+    width: 1000px;
+   
+    margin-top: 100px;
+ }
+ .f4{
+    height: 500px ;
+    width: 600px;
+    margin-top: 100px;
+}
+ .f3f4{
+    display: flex;
+    justify-content: space-evenly;
+    cursor: pointer;
+    transition: 2s;
+ }
+ .f3f4:hover{
+    transform: scale(0.9);
+ }
+ .footer1{
+    display: flex;
+     justify-content: space-evenly;
+     margin-top: 100px;
+     background-color: rgb(50, 48, 48);
+     color: rgb(179, 175, 175);
+     font-size: 20px;
+ }
+ li{
+    list-style-type: none;
+ }
+ footer {
+    margin-top: 50px;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    color: #fff;
+    bottom: 0;
+    width: 100%;
+    background: black
+    }
+
+.ff1:hover{
+    background-color: black;
+}
+
+.ff2:hover{
+    background-color: black;
+}
+
+.ff3:hover{
+    background-color: black;
+}
+
+.ff4:hover{
+    background-color: black;
+}
+.iimg{
+    font-family: Franklin Gothic Book;
+}
+.insta{
+    background-image: url(../Pages/insta\ white.jpg);
+    background-size: 50px;
+    height: 50px;
+    width: 50px;
+    transition: 0.1s;
+ }
+ .insta:hover{
+         cursor: pointer;
+          background-image: url('../Pages/insta\ color.jpg');
+          height: 50px;
+          width: 50px;
+ }
+
+ .link{
+    background-image: url('../Pages/linkdin\ white.jpg');
+    background-size: 50px;
+    height: 50px;
+    width: 50px;
+    transition: 0.1s;
+ }
+ .link:hover{
+    cursor: pointer;
+    background-image: url(../Pages/linkdin\ color.jpg);
+    height: 50px;
+    width: 50px;
+ }
+ .face{
+    background-image: url('../Pages/facebook\ white.jpg');
+    background-size: 50px;
+    height: 50px;
+    width: 50px;
+    transition: 0.1s;
+ }
+ .face:hover{
+    cursor: pointer;
+    background-image: url('../Pages/facebook\ color\ \(1\).jpg');
+    height: 50px;
+    width: 50px;
+}
+.none{
+    display: flex;
+    margin-left: 85%;
+    margin-top: -300px;
+    justify-content: space-evenly;
+}
+.foot{
+    margin-top: 300px;
+}
+.on{
+    color:rgb(21, 214,1);
+     font-size: 25px;
+
+}
+   .on:hover{
+    color: red;
+   } 
+
